@@ -39,4 +39,4 @@ Detail:
 Detail:
 - Optimize/refactor the FOTA Deployment page to enhance the Detail feature's efficiency
 
-### [Backend] CC | Device Monitor | Reboot IoT while not activated
+### [Backend] CC | Device Monitor | Reboot IoT while not activated (5)
