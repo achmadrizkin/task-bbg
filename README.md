@@ -40,3 +40,23 @@ Detail:
 - Optimize/refactor the FOTA Deployment page to enhance the Detail feature's efficiency
 
 ### [Backend] CC | Device Monitor | Reboot IoT while not activated (5)
+
+
+# NEW SPRINT (Change SP & Anoother things)
+## [Backend] CC | FOTA Deployment | Enhance Check Active Deployment (8)
+Detail:
+- craete query db only check active deployment with specific fleet type
+- update condition on deployment iteration when evaluate deployment
+
+## [Backend] COTA Configuration | Config by pool | Create Deployment (4)
+Detail:
+- Handle API Create Cota deployment with Target Type pool
+
+## [Backend] | Config By Pool | Handle Request COTA from IOT (4)
+Detail:
+- Handle Request COTA from IoT
+- Can handle pool request
+
+## [Backend] CC | Configuration | Create Configuration | targeted by pool | handle notification (8)
+Detail:
+- While activated COTA will notify with specific pool from devices
