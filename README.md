@@ -60,3 +60,17 @@ Detail:
 ## [Backend] CC | Configuration | Create Configuration | targeted by pool | handle notification (8)
 Detail:
 - While activated COTA will notify with specific pool from devices
+
+## [Backend] FOTA | Deployment | add target type Pool | Handle Evaluate Deployment (8)
+Detail:
+- [Backend] FOTA | Deployment | add target type Pool | Handle Evaluate Deployment
+
+## [Backend] IOT Track forwarder | one vehicle multiple token | handle sync database 
+Detail:
+- concatenate multiple token with separator
+- remove other duplicate vehicle
+
+## [Backend] IOT Track forwarder | one vehicle multiple token | handle telemetry send to trackingbird
+Detail:
+- before send tracking, split token with define separator
+- if length from split token grether than 1, looping send telemetry with different token
