@@ -41,8 +41,10 @@ Detail:
 
 ### [Backend] CC | Device Monitor | Reboot IoT while not activated (5)
 
+-
+# NEW SPRINT (Change Sprint Point & Anoother things)
+-
 
-# NEW SPRINT (Change SP & Anoother things)
 ## [Backend] CC | FOTA Deployment | Enhance Check Active Deployment (8)
 Detail:
 - craete query db only check active deployment with specific fleet type
