@@ -65,12 +65,12 @@ Detail:
 Detail:
 - [Backend] FOTA | Deployment | add target type Pool | Handle Evaluate Deployment
 
-## [Backend] IOT Track forwarder | one vehicle multiple token | handle sync database 
+## [Backend] IOT Track forwarder | one vehicle multiple token | handle sync database (8)
 Detail:
 - concatenate multiple token with separator
 - remove other duplicate vehicle
 
-## [Backend] IOT Track forwarder | one vehicle multiple token | handle telemetry send to trackingbird
+## [Backend] IOT Track forwarder | one vehicle multiple token | handle telemetry send to trackingbird (8)
 Detail:
 - before send tracking, split token with define separator
 - if length from split token grether than 1, looping send telemetry with different token
