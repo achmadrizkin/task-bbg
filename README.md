@@ -76,3 +76,8 @@ Detail:
 Detail:
 - before send tracking, split token with define separator
 - if length from split token grether than 1, looping send telemetry with different token
+
+## [Backend] CC | Device Inventory | Can Search by Phone Number​ | Update Query  (3)
+Detail:
+- add query search
+- handle property for sorting
