@@ -1,5 +1,8 @@
 # TASK BBG
 
+## Bukti
+https://github.com/achmadrizkin/task-bbg/blob/main/task-bbg-intern.md
+
 ### Handle Teltonika device type on integration parser (5)
 Detail
 - add new field on struct and db deviceInfo
