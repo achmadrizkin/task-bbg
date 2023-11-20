@@ -81,3 +81,11 @@ Detail:
 Detail:
 - add query search
 - handle property for sorting
+
+## [Backend] CC-API | Increase Coverage Unit Test on Controller |  deploymentController (4) 
+add more testing for function:
+- UpdateActiveness
+- DeleteDeploymentHandler
+- PutDeploymentHandler
+- CreateDeploymentHandler
+- GetCititesHandler
