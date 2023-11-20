@@ -10,6 +10,10 @@
 ![images](images/CC-COMMIT-3.png)
 ![images](images/CC-COMMIT-4.png)
 
-## Tracking Bird
+## IOT Tracking Forwarder
+![images](images/IOT-TRACKING-FORWARDER.png)
+![images](images/IOT-TRACKING-FORWARDER-1.png)
+![images](images/IOT-TRACKING-FORWARDER-2.png)
+![images](images/IOT-TRACKING-FORWARDER-3.png)
 
 ## IOT Integeration Parser
