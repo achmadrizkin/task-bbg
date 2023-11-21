@@ -3,7 +3,7 @@
 ## Bukti
 https://github.com/achmadrizkin/task-bbg/blob/main/task-bbg-intern.md
 
-### Handle Teltonika device type on integration parser (5)
+## Handle Teltonika device type on integration parser (5)
 Detail
 - add new field on struct and db deviceInfo
 - Handle incoming pubsub from cc api
@@ -18,7 +18,7 @@ Detail:
 - update query db
 - add new field “deviceType” on inventory.proto
 
-### Added ads configuration (8)
+## Added ads configuration (8)
 Detail:
 - Make new configuration for Aqua Ads
 - User Acceptance Criteria
@@ -28,24 +28,24 @@ Detail:
 - Then show Aqua ads configuration 
 - When click the toggle button 
 
-### Create Rest Api Tracking Forwarder (?)
+## Create Rest Api Tracking Forwarder (?)
 Detail:
 - Create Rest api for create, read, update, delete, device token thingsboard on service tracking forwarder,
 auth using bbone
 
-### [Backend] Tracking Forwarder | Sync token from Trackingbird (5)
+## [Backend] Tracking Forwarder | Sync token from Trackingbird (5)
 Detail:
 - Get token from trackingbird and store to trackingforwarder
 - Need to synchronize data from database trackingbird to internal Redis and PostgreSQL
 
-### [Backend] CC | Refactor FOTA Deployment | Detail (5)
+## [Backend] CC | Refactor FOTA Deployment | Detail (5)
 Detail:
 - Optimize/refactor the FOTA Deployment page to enhance the Detail feature's efficiency
 
-### [Backend] CC | Device Monitor | Reboot IoT while not activated (5)
+## [Backend] CC | Device Monitor | Reboot IoT while not activated (5)
 
 -
-# NEW SPRINT (Change Sprint Point & Anoother things)
+## NEW SPRINT (Change Sprint Point & Anoother things)
 -
 
 ## [Backend] CC | FOTA Deployment | Enhance Check Active Deployment (8)
@@ -92,3 +92,13 @@ add more testing for function:
 - PutDeploymentHandler
 - CreateDeploymentHandler
 - GetCititesHandler
+
+## [Backend] CC-API | Increase Coverage Unit Test on Controller | roleAuthorizationController
+Details function testing:
+- RoleGetHandler
+- RolePostHandler
+- AuthPostHandler
+- AuthUpdateHandler
+- RoleUpdateHandler
+- RoleDeleteHandler
+- AuthDeleteHandler
